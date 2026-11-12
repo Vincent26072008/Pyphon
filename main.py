@@ -13,7 +13,7 @@
 #    3. Source Control (Ctrl+Shift+G)  →  committen  →  pushen
 # ============================================================
 
-___ = None   # Platzhalter -- ersetze jeden ___ durch deinen eigenen Wert
+# Kein zusätzlicher Wert nötig – das Programm kann direkt gestartet werden.
 
 
 # --- Variablen deklarieren ---
